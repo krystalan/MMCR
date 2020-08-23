@@ -14,6 +14,10 @@ The paper will be uploaded to arXiv in the near future.
 ## Data
 The data will be uploaded in the near future.
 
+## Pre-trained Language Model
+We used  ```BERT-wwm-ext, Chinese``` pre-trained language model  
+Related introduction and download link please refer to <u>[Chinese-BERT-wwm](https://github.com/ymcui/Chinese-BERT-wwm#%E4%B8%AD%E6%96%87%E6%A8%A1%E5%9E%8B%E4%B8%8B%E8%BD%BD)</u>.
+
 ## Train and Test
 For training, you can run commands like this:  
 ```shell
