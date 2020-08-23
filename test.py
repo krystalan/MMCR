@@ -12,10 +12,10 @@ def test(model_path,test_path,bs):
     test_loader = get_loader(test_path,bs)
     test_loader = iter(test_loader)
 
-    TP = 0 #原来是1，预测是1
-    FN = 0 #原来是1，预测是0
-    FP = 0 #原来是0，预测是1
-    TN = 0 #原来是0，预测是0
+    TP = 0 
+    FN = 0 
+    FP = 0 
+    TN = 0 
 
     desc = '  - (Testing) -  '
     for (data,label) in tqdm(test_loader,desc=desc,ncols=80):

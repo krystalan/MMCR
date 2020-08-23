@@ -1,11 +1,7 @@
 import argparse
 import pprint
 import torch
-from datetime import datetime
-from pathlib import Path
-project_dir = Path(__file__).resolve().parent
-# save_dir = project_dir.joinpath('./ckpt/')
-# pred_dir = project_dir.joinpath('./pred/')
+
 
 class Config(object):
     def __init__(self, **kwargs):

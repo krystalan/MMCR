@@ -20,14 +20,6 @@ def get_lyric_feature(lyric):
     _ , pooled_output = model(input_id)
     return pooled_output
 
-
-
-# def get_MFCC(root,idx):
-#     data = pd.read_csv(root,encoding='utf-8',header=None)
-#     data = data.values.tolist()
-#     return eval(data[idx][4])
-
-
 def get_MFCC(root,start,end):
     fs, sig = scipy.io.wavfile.read(root)
     start = int(float(start)*fs)-1
