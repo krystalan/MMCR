@@ -1,4 +1,4 @@
-# ELMF
+# Multi-Model Chorus Recognition
 Code for paper: [TBD]  
 The paper will be uploaded to arXiv in the near future.  
 
