@@ -1,6 +1,6 @@
 # Multi-Model Chorus Recognition
-Code for paper: [TBD]  
-The paper will be uploaded to arXiv in the near future.  
+Basic code for paper: [TBD]  
+The paper will be uploaded to arXiv after the anonymous period.  
 
 ## Dependency
 - python 3.6+
@@ -12,7 +12,7 @@ The paper will be uploaded to arXiv in the near future.
     - Pandas
 
 ## Data
-The data will be uploaded in the near future.
+[TODO]
 
 ## Pre-trained Language Model
 We used  ```BERT-wwm-ext, Chinese``` pre-trained language model  
