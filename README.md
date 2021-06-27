@@ -10,7 +10,7 @@ Code and Dataset of ICANN2021 paper: *Multi-Model Chorus Recognition for Improvi
     - python_speech_features
     - Pandas
 
-## Data
+## CHORD Dataset
 Coming soon!
 
 ## Pre-trained Language Model
