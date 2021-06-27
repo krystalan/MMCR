@@ -1,6 +1,5 @@
 # Multi-Model Chorus Recognition
-Basic code for paper: [TBD]  
-The paper will be uploaded to arXiv after the anonymous period.  
+Code and Dataset of ICANN2021 paper: Multi-Model Chorus Recognition for Improving Song Search 
 
 ## Dependency
 - python 3.6+
@@ -12,7 +11,7 @@ The paper will be uploaded to arXiv after the anonymous period.
     - Pandas
 
 ## Data
-[TODO]
+Coming soon!
 
 ## Pre-trained Language Model
 We used  ```BERT-wwm-ext, Chinese``` pre-trained language model  
