@@ -1,5 +1,5 @@
 # Multi-Model Chorus Recognition
-Code and Dataset of ICANN2021 paper: Multi-Model Chorus Recognition for Improving Song Search 
+Code and Dataset of ICANN2021 paper: *Multi-Model Chorus Recognition for Improving Song Search* 
 
 ## Dependency
 - python 3.6+
