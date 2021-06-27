@@ -1,8 +1,5 @@
 # Multi-Model Chorus Recognition
 Code and Dataset of ICANN2021 paper: *Multi-Model Chorus Recognition for Improving Song Search* 
-<p align="justify">
-  <img src="https://github.com/krystalan/MMCR/blob/master/title.png" alt="paper">
-</p>
 
 ## Dependency
 - python 3.6+
