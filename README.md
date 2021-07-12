@@ -27,3 +27,15 @@ For evaluation, the command may like this:
 ```shell
 python test.py
 ```
+
+## Citation
+If you use this code useful, please star our repo or consider citing:
+```
+@article{Wang2021MultiModalCR,
+  title={Multi-Modal Chorus Recognition for Improving Song Search},
+  author={Jiaan Wang and Zhixu Li and Binbin Gu and Tingyi Zhang and Qingsheng Liu and Zhigang Chen},
+  journal={ArXiv},
+  year={2021},
+  volume={abs/2106.16153}
+}
+```
