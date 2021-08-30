@@ -10,8 +10,8 @@ Code and Dataset of ICANN2021 paper: *Multi-Model Chorus Recognition for Improvi
     - python_speech_features
     - Pandas
 
-## CHORD Dataset
-Coming soon!
+## CHORD
+You can download the CHOrus Recognition Dataset [here](https://drive.google.com/file/d/1nkoDvCym3hz_qI9u6XnzE9JEkBVnOqmM/view?usp=sharing) and unzip to ```data/``` file.  
 
 ## Pre-trained Language Model
 We used  ```BERT-wwm-ext, Chinese``` pre-trained language model  
